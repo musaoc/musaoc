@@ -28,31 +28,13 @@ I specialize in:
 | :--- | :--- |
 | **Languages** | Python, SQL, Bash |
 | **Machine Learning** | Scikit-Learn, XGBoost, CatBoost, LightGBM, Yellowbrick |
-| **Deep Learning & CV** | TensorFlow, Keras, PyTorch, Ultralytics YOLOv8 / YOLO11, OpenCV |
+| **Deep Learning & Computer Vision** | TensorFlow, Keras, PyTorch, Ultralytics YOLOv8 / YOLO11, OpenCV |
 | **NLP & Generative AI** | SentenceTransformers, Cross-Encoders, Google Gemini API, NLTK, RAG Architectures |
 | **Data Engineering** | Pandas, NumPy, yt-dlp, Beautiful Soup, OpenPyXL, Scrapy |
 | **Visualization & BI** | Matplotlib, Seaborn, Plotly, Mermaid.js |
 | **DevOps & Practices** | Git, GitHub Actions, Docker, Jupyter, Linux, Clean Pipeline Design |
 
 ---
-
-## 🏆 Kaggle Milestones & Competencies
-
-- **Kaggle Master Tier**: Top global rank among worldwide competitive data scientists.
-- **Top 1% Global Finish**: *House Prices - Advanced Regression Techniques* (430+ community upvotes).
-- **Top 6% Global Finish**: *Spaceship Titanic Machine Learning Competition* (400+ community upvotes).
-- **Community Impact**: Authored extensively bookmarked educational guides on Scikit-Learn pipelines, RAG systems, and time-series forecasting.
-
----
-
-## 🎯 Engineering Philosophy
-
-1. **Leak-Free Pipelines**: Preprocessing belongs inside cross-validated pipeline transformers, never applied globally on raw training sets.
-2. **First-Principles Feature Engineering**: Domain-specific features and interaction terms almost always outperform blindly throwing raw data into complex models.
-3. **Reproducibility & Production Readiness**: Code should be modular, self-contained, typed, and executable out-of-the-box.
-
----
-
 ## 📬 Connect With Me
 
 - **Kaggle**: [kaggle.com/lazer999](https://www.kaggle.com/lazer999)
