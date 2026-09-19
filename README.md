@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am a **Kaggle Master** with a proven track record in building high-performing machine learning architectures and end-to-end data systems. My solutions on Kaggle have earned global **Top 1%** and **Top 6%** finishes, community medals, and hundreds of upvotes.
+I am a **AI Eng & Data Guy** with a proven track record in building high-performing machine learning architectures and end-to-end data systems. My solutions on Kaggle have earned global **Top 1%** and **Top 6%** finishes, community medals, and hundreds of upvotes.
 
 I specialize in:
 - **Competitive Machine Learning & Ensembling**: Advanced feature engineering, leak-free cross-validation pipelines, and gradient boosting optimization (XGBoost, CatBoost, LightGBM).
